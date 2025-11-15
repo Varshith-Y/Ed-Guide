@@ -229,5 +229,4 @@ Then:
 
 ---
 
-Feel free to adapt with a standard license (MIT, Apache 2.0, etc.).
 
